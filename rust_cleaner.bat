@@ -1,36 +1,3 @@
-::[Bat To Exe Converter]
-::
-::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFB5TQxa+GGStCLkT6ezo077S9x9LBbJye4DczbyLJexe7UDlZ9sh12pOl9tBHx5MahulaTBl+z8R7zXLPsST0w==
-::YAwzuBVtJxjWCl3EqQJgSA==
-::ZR4luwNxJguZRRnk
-::Yhs/ulQjdF+5
-::cxAkpRVqdFKZSjk=
-::cBs/ulQjdF+5
-::ZR41oxFsdFKZSDk=
-::eBoioBt6dFKZSDk=
-::cRo6pxp7LAbNWATEpCI=
-::egkzugNsPRvcWATEpCI=
-::dAsiuh18IRvcCxnZtBJQ
-::cRYluBh/LU+EWAnk
-::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZksaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlTMbCXqZg==
-::ZQ05rAF9IAHYFVzEqQICPQhADCuSKGK3D68Z+og=
-::eg0/rx1wNQPfEVWB+kM9LVsJDDaXL3+VFqEV5eHh6vjJp1UYNA==
-::fBEirQZwNQPfEVWB+kM9LVsJDDaXL3+VFqEV5eHh6vjn
-::cRolqwZ3JBvQF1fEqQIDMQhASQnCE3uuD7gV8unv5uWJ4nkSW+5/foDJmoabM/Rz
-::dhA7uBVwLU+EWFaC7Es1P3s=
-::YQ03rBFzNR3SWATElA==
-::dhAmsQZ3MwfNWATE100gMQldSwyWfMlzRudMur674Oyfq0gKNA==
-::ZQ0/vhVqMQ3MEVWAtB9wSA==
-::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRmM4FYgO0EbAwOLKGOvBPsf5+W04Oyfq0gKG9Aqa5v0yqCHLekJ71eE
-::Zh4grVQjdCyDJGyX8VAjFB5TQxa+GG6pDaET+NTJ+vmTjV0JXe82YorJlLGWJYA=
-::YB416Ek+ZW8=
-::
-::
-::978f952a14a936cc963da21a135fa983
 @echo off
 color 0b
 title RUST OPTIMIZER by OFXIEW
